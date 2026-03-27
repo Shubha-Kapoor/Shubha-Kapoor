@@ -7,12 +7,16 @@ Hiii🌻, I'm *Shubha Kapoor*🌞✨
 
 
 
+
+
 => 💫*About Me*
 
 I’m a passionate BCA student exploring Python, AI and open source development.
 I love building beginner-friendly projects and improving documentation to make technology simple and accessible.
 
 Currently preparing for Google Summer of Code 2026 and actively contributing to open source projects.
+
+
 
 
 
@@ -24,6 +28,8 @@ Currently preparing for Google Summer of Code 2026 and actively contributing to 
 * 🤖 AI Tools (Beginner Level)
 
 
+
+
 => 🚀*Current Focus*
 
 * Contributing to open source (SymPy,piyushgarg-dev, NumFOCUS ecosystem)
@@ -33,13 +39,17 @@ Currently preparing for Google Summer of Code 2026 and actively contributing to 
 * Building beginner-friendly Python projects
 
 
+
+
 =>🌻*Beyond Tech*
 
 * ✍️ Writer
 * 🎨 Content creator [YouTube and Instagram] - Creative artist
 * 🎤 Motivational storyteller
 
+
 📖 Author of *Fancies of My Heart*
+
 📖 Author of *Rooftop Dreamers*
 
 
@@ -49,6 +59,8 @@ Currently preparing for Google Summer of Code 2026 and actively contributing to 
 🔗 LinkedIn: [www.linkedin.com/in/shubha-kapoor-a3963a308](http://www.linkedin.com/in/shubha-kapoor-a3963a308)
 Email: shubha25kapoor2005@gmail.com
 other active Email: shubhushubha24@gmail.com 
+
+
 
 
 🌟*Keep Learning.Show up every day. Stay consistent. Stay unstoppable.*🍀
