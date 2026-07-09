@@ -5,14 +5,14 @@
 💻 BCA Student  
 🌐 MERN Stack Developer (Learning & Building)  
 🚀 Open Source Enthusiast  
-🐍 Python Learner  
+🐍 Prompt Engineering enthusiast  
 ✨ Content Creator | Author | Poet | Novelist
 
 ---
 
 ## 💫 About Me
 
-I'm a passionate BCA student with a growing interest in full-stack web development, Python, and open source.
+I'm a passionate BCA student with a growing interest in full-stack web development, starting with skillset in frontend and prompt engineering.
 
 I enjoy building projects, exploring modern web technologies, and continuously improving my development skills through hands-on learning.
 
@@ -32,7 +32,6 @@ Beyond coding, I love creating digital content, writing books, and sharing creat
 ### Web Development
 - React.js
 - Node.js
-- Express.js
 - MongoDB
 - REST APIs
 
@@ -62,18 +61,10 @@ Beyond coding, I love creating digital content, writing books, and sharing creat
 - 🎙️ Storytelling & Creative Writing
 - 🎨 Passionate about creativity, learning, and personal growth
 
-### 📖 Books
+### 📖 My Published Books
 
 - 📚 *Rooftop Dreamers*
 - 📚 *Fancies of My Heart*
-
----
-
-## 📊 GitHub Stats
-
-![Shubha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubha-Kapoor&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubha-Kapoor&layout=compact&theme=tokyonight)
 
 ---
 
