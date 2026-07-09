@@ -4,7 +4,7 @@
 
 💻 BCA Student  
 🌐 MERN Stack Developer (Learning & Building)  
-🚀 Open Source Enthusiast  
+🚀 Social Media Management
 🐍 Prompt Engineering enthusiast  
 ✨ Content Creator | Author | Poet | Novelist
 
@@ -28,10 +28,12 @@ Beyond coding, I love creating digital content, writing books, and sharing creat
 - C++
 - HTML5
 - CSS3
+- PHP
 
 ### Web Development
 - React.js
 - Node.js
+- Express.js
 - MongoDB
 - REST APIs
 
