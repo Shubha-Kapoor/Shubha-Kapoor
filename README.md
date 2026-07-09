@@ -1,70 +1,93 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubha-Kapoor)
 
-Hiii🌻, I'm *Shubha Kapoor*🌞✨
+# Hi there! 👋🌻 I'm Shubha Kapoor ✨
 
-☀️ BCA Student | Web Development Enthusiast | Python & AI Enthusiast | Open Source Contributor
-🚀 GSoC 2026 Aspirant
+💻 BCA Student  
+🌐 MERN Stack Developer (Learning & Building)  
+🚀 Open Source Enthusiast  
+🐍 Python Learner  
+✨ Content Creator | Author | Poet | Novelist
 
+---
 
+## 💫 About Me
 
+I'm a passionate BCA student with a growing interest in full-stack web development, Python, and open source.
 
+I enjoy building projects, exploring modern web technologies, and continuously improving my development skills through hands-on learning.
 
-=> 💫*About Me*
+Beyond coding, I love creating digital content, writing books, and sharing creativity through storytelling.
 
-I’m a passionate BCA student exploring Python, AI and open source development.
-I love building beginner-friendly projects and improving documentation to make technology simple and accessible.
+---
 
-Currently preparing for Google Summer of Code 2026 and actively contributing to open source projects.
+## 💻 Tech Stack
 
+### Languages
+- JavaScript
+- Python
+- C++
+- HTML5
+- CSS3
 
+### Web Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
 
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Canva
 
+---
 
-=> 💻*Interests & Skills*
+## 🚀 Current Focus
 
-* 🌐 Web Development (MERN)
-* ⚙️ C++ (Basics) and 🐍 Python (Basics)
-* 📚 Documentation & Developer Experience
-* 🤖 AI Tools (Beginner Level)
+- 🌱 Learning the MERN Stack
+- 💻 Building Full Stack Projects
+- 🤝 Contributing to Open Source
+- 📚 Strengthening Data Structures & JavaScript
+- 🚀 Exploring AI-powered Development Tools
 
+---
 
+## 🌻 Beyond Tech
 
+- ✍️ Author, Poet & Novelist
+- 🎥 Content Creator (YouTube & Instagram)
+- 🎙️ Storytelling & Creative Writing
+- 🎨 Passionate about creativity, learning, and personal growth
 
-=> 🚀*Current Focus*
+### 📖 Books
 
-* Contributing to open source (SymPy,piyushgarg-dev, NumFOCUS ecosystem)
-* Improving documentation
-* Kickstarting my Open Source Journey early!
-* Building and improving WebDev projects
-* Building beginner-friendly Python projects
+- 📚 *Rooftop Dreamers*
+- 📚 *Fancies of My Heart*
 
+---
 
+## 📊 GitHub Stats
 
+![Shubha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubha-Kapoor&show_icons=true&theme=tokyonight)
 
-=>🌻*Beyond Tech*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubha-Kapoor&layout=compact&theme=tokyonight)
 
-* ✍️ Writer
-* 🎨 Content creator [YouTube and Instagram] - Creative artist
-* 🎤 Motivational storyteller
+---
 
+## 🤝 Connect With Me
 
-📖 Author of *Fancies of My Heart*
+💼 **LinkedIn**  
+https://www.linkedin.com/in/shubha-kapoor-a3963a308
 
-📖 Author of *Rooftop Dreamers*
+📧 **Email**  
+shubha25kapoor2005@gmail.com
 
+📧 **Collaborations**  
+shinewithshubha.collabs@gmail.com
 
+---
 
-=>🤝*Connect With Me*
-
-🔗 LinkedIn: [www.linkedin.com/in/shubha-kapoor-a3963a308](http://www.linkedin.com/in/shubha-kapoor-a3963a308)
-Email: shubha25kapoor2005@gmail.com
-other active Email: shubhushubha24@gmail.com 
-
-
-
-
-🌟*Keep Learning.Show up every day. Stay consistent. Stay unstoppable.*🍀
-🌟*Shine.Dream.Smile*🌈
-🌟*Grow,Glow,Rise and Flow*🧿
-
-
+⭐ *"Keep learning, keep building, and let your work speak louder than your words."*
