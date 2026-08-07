@@ -1,86 +1,170 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubha-Kapoor)
 
-# Hi there! 👋🌻 I'm Shubha Kapoor ✨
+# Hi there! 👋 I'm Shubha Kapoor 🌻✨
 
-💻 BCA Student  
-🌐 MERN Stack Developer (Learning & Building)  
-🚀 Social Media Management
-🐍 Prompt Engineering enthusiast  
-✨ Content Creator | Author | Poet | Novelist
+### 💻 BCA Student | MERN Developer | Author | Content Creator | Full Stack
+
+Passionate about building impactful web applications, creating meaningful content, and continuously learning new technologies. I enjoy solving real-world problems through code while combining creativity with technology.
 
 ---
 
-## 💫 About Me
+# 🌟 About Me
 
-I'm a passionate BCA student with a growing interest in full-stack web development, starting with skillset in frontend and prompt engineering.
+- 🎓 BCA Student
+- 💻 Full Stack MERN Developer (Learning & Building)
+- 🌐 Frontend Developer (React.js)
+- 📱 Passionate about Responsive Web Development
+- 🎥 Content Creator & Video Editor
+- 📈 Interested in Social Media Management & Digital Branding
+- ✍️ Author, Poet & Storyteller
+- 🌱 Lifelong Learner passionate about Personal Growth, Productivity & Technology
 
-I enjoy building projects, exploring modern web technologies, and continuously improving my development skills through hands-on learning.
-
-Beyond coding, I love creating digital content, writing books, and sharing creativity through storytelling.
+I enjoy transforming ideas into user-friendly digital experiences while continuously improving my skills through projects and hands-on development.
 
 ---
 
-## 💻 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
-- JavaScript
-- Python
+## Languages
+- JavaScript (ES6+)
 - C++
 - HTML5
 - CSS3
-- PHP
+- SQL (Basics)
 
-### Web Development
+## Frontend
 - React.js
+- Bootstrap 5
+- HTML5
+- CSS3
+- JavaScript
+- Axios
+
+## Backend
 - Node.js
 - Express.js
-- MongoDB
-- REST APIs
 
-### Tools
+## Database
+- MongoDB
+- MongoDB Compass
+
+## Tools & Platforms
 - Git
 - GitHub
 - VS Code
 - Postman
 - Canva
+- Figma (Basics)
 
 ---
 
-## 🚀 Current Focus
+# 💼 Featured Projects
 
-- 🌱 Learning the MERN Stack
-- 💻 Building Full Stack Projects
-- 🤝 Contributing to Open Source
-- 📚 Strengthening Data Structures & JavaScript
-- 🚀 Exploring AI-powered Development Tools
+## 📚 BookHeaven
+A React.js Frontend Book Library Management System featuring book browsing, search, categories, wishlist, responsive UI, and modern component-based architecture.
 
----
-
-## 🌻 Beyond Tech
-
-- ✍️ Author, Poet & Novelist
-- 🎥 Content Creator (YouTube & Instagram)
-- 🎙️ Storytelling & Creative Writing
-- 🎨 Passionate about creativity, learning, and personal growth
-
-### 📖 My Published Books
-
-- 📚 *Rooftop Dreamers*
-- 📚 *Fancies of My Heart*
+**Tech Used**
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Local Storage
 
 ---
 
-## 🤝 Connect With Me
+## 🎓 KAKSHA – School Management System
 
-💼 **LinkedIn**  
+A Full Stack MERN School Homework, Assignment & Learning Management System where teachers can manage classes, upload study materials, assignments, homework, notices, conduct tests, grade students, and monitor progress. Students can securely access assigned batches, submit work, and receive grades and feedback.
+
+**Tech Used**
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Bootstrap
+- REST APIs
+- Postman
+
+---
+
+# 📚 Training
+
+### 💼 MERN Stack Industrial Training (45 Days)
+
+Successfully completed a 45-day industrial training focused on modern Full Stack Web Development.
+
+### Learned & Worked On
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Authentication
+- CRUD Operations
+- Git & GitHub
+- API Integration
+- Project Development
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced MERN Stack Development
+- Data Structures & Algorithms
+- React Best Practices
+- Backend Architecture
+- API Design
+- Deployment
+- UI/UX Principles
+
+---
+
+# 🌻 Beyond Coding
+
+Besides programming, I enjoy creating content that inspires people to grow.
+
+### ✨ Interests
+- 🎥 Content Creation
+- 🎬 Video Editing
+- 📈 Social Media Management
+- 📚 Reading
+- ✍️ Writing
+- 🌸 Personal Growth
+- 💡 Productivity
+- 🎯 Self Improvement
+
+---
+
+# 📖 Published Books
+
+📚 **Rooftop Dreamers**
+
+📚 **Fancies of My Heart**
+
+---
+
+# 🤝 Let's Connect
+
+### 💼 LinkedIn
 https://www.linkedin.com/in/shubha-kapoor-a3963a308
 
-📧 **Email**  
+### 📧 Email
 shubha25kapoor2005@gmail.com
 
-📧 **Collaborations**  
+### 💌 Collaborations
 shinewithshubha.collabs@gmail.com
 
 ---
 
-⭐ *"Keep learning, keep building, and let your work speak louder than your words."*
+# 📊 GitHub Goals
+
+- Build impactful Full Stack Applications
+- Strengthen MERN Development Skills
+- Create scalable real-world projects
+- Learn modern software engineering practices
+- Share knowledge through content creation
+- Keep improving one project at a time
+
+---
+
+> *"Growth isn't about being perfect—it's about showing up consistently, learning continuously, and building something meaningful every day."* 🌻
